@@ -20,7 +20,7 @@ import java.util.Map;
  *
  *  Sliding Window
  *
- *  1) We use two cursors left ind right and map for keeping the last position of each character.
+ *  1) We use two cursors left and right and map for keeping the last position of each character.
  *  2) We move right cursor to the right until the end and put each character (position of character)
  *     that we meet in map.
  *
