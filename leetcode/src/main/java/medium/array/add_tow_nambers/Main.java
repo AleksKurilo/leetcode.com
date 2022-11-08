@@ -1,4 +1,4 @@
-package medium.other.add_tow_nambers;
+package medium.array.add_tow_nambers;
 
 /**
  * Add Two Numbers

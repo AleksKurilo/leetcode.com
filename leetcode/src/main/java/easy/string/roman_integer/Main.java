@@ -1,4 +1,4 @@
-package easy.roman_integer;
+package easy.string.roman_integer;
 
 import java.util.HashMap;
 import java.util.Map;

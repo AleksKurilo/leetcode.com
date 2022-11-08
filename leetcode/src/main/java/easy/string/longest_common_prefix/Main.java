@@ -1,4 +1,4 @@
-package easy.longest_common_prefix;
+package easy.string.longest_common_prefix;
 
 import java.util.Arrays;
 import java.util.Comparator;

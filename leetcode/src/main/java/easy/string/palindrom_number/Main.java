@@ -1,4 +1,4 @@
-package easy.palindrom_number;
+package easy.string.palindrom_number;
 
 /**
  * 9. Palindrome Number
