@@ -30,6 +30,10 @@ package medium.string.longest_substring_palindromic;
  *
  * Time complexity:    O(n ^ 2)
  * Space complexity:   O(1)
+ *
+ * LINK
+ *
+ * https://leetcode.com/problems/longest-palindromic-substring/
  */
 public class Main {
     public static void main(String[] args) {
